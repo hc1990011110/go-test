@@ -13,4 +13,5 @@ func main() {
 func Fuckyou() {
 	fmt.Println("Hello, World!")
 	logs.Info("阿西吧")
+	logs.Info("你会赖")
 }
